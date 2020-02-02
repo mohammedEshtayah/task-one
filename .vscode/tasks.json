@@ -6,7 +6,7 @@
         {
             "label": "Sass Compile",
             "type": "shell",
-            "command": "node-sass Component/Home/Home.sass Component/Home/Home.css",
+            "command": "node-sass Page/Home/Home.sass Page/Home/Home.css",
             "group": "build"
         }
     ]
